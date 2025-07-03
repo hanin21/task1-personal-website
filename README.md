@@ -9,5 +9,9 @@ This is a simple personal website created as part of my summer training at Smart
 ## How to view:
 Open `index.html` in any browser.
 
+# My Personal Website
+
+https://hanin21.github.io/task1-personal-website/
+
 ## Developed by:
 Hanin Asiri – Computer Science Student
